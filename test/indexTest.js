@@ -5,7 +5,7 @@ describe('index.js', function () {
     });
   });
 
-  describe('Array functions', function () {
+  describe('', function () {
     beforeEach(function () {
       cats.length = 0;
 
